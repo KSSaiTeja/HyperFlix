@@ -17,7 +17,7 @@ Follow these steps to set up Hyperflix locally:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/hyperflix.git
+   git clone https://github.com/KSSaiTeja/hyperflix.git
    cd hyperflix
    ```
 2. **Run the Application:**
