@@ -20,7 +20,7 @@ export const logo = 'https://i.ibb.co/gjHCgjQ/logo-transparent-png.png';
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
-  { name: 'Trending', icon: <WhatshotIcon />, },
+  { name: 'Hot Topics', icon: <WhatshotIcon />, },
   { name: 'Coding', icon: <CodeIcon />, },
   { name: 'JavaScript', icon: <JavascriptIcon />, },
   { name: 'Music', icon: <MusicNoteIcon /> },
