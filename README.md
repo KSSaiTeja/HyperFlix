@@ -11,6 +11,10 @@ Hyperflix is a web application that provides a user-friendly platform for sharin
 - **Responsive Design:** The application is responsive and accessible across various devices, including desktops, tablets, and mobile phones.
 - **Search Functionality:** Users can search for videos and channels, enhancing discoverability.
 
+
+![Uploading Screenshot 2023-08-18 at 2.41.11 PM.png…]()
+
+
 ## Getting Started
 
 Follow these steps to set up Hyperflix locally:
