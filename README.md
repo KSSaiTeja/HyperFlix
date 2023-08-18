@@ -12,7 +12,9 @@ Hyperflix is a web application that provides a user-friendly platform for sharin
 - **Search Functionality:** Users can search for videos and channels, enhancing discoverability.
 
 
-![Uploading Screenshot 2023-08-18 at 2.41.11 PM.png…]()
+<img width="1662" alt="Screenshot 2023-08-18 at 2 42 54 PM" src="https://github.com/KSSaiTeja/HyperFlix/assets/130981122/6845e6e2-daf6-4178-b032-90b37ef2d328">
+
+
 
 
 ## Getting Started
